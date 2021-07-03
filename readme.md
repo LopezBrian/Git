@@ -1,3 +1,3 @@
 ## Este es el readme
--1
--2
+- 1
+- 2
